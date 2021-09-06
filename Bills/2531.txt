@@ -1,0 +1,15 @@
+	 Welcome to Grocery Shop 
+
+ Bill Number : 2531
+ Customer Name : vineeta
+ Phone Number : 8826798238
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Fcae Cream		2		240
+ Sugar		        1		140
+ ------------------------------------
+ Cosemetic Tax		Rs. 12.0
+ Grocery Tax		Rs. 14.0
+ Total Bill : 		 Rs. 406.0
+ ------------------------------------

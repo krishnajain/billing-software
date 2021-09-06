@@ -1,0 +1,18 @@
+	 Welcome to Grocery Shop 
+
+ Bill Number : 6985
+ Customer Name : Deepak
+ Phone Number : 9714821517
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Fcae Cream		3		360
+ Hair Gell		1		140
+ Daal		2		120
+ Thumbs Up		1		45
+ ------------------------------------
+ Cosemetic Tax		Rs. 25.0
+ Grocery Tax		Rs. 12.0
+ Cold Drink Tax		Rs. 2.25
+ Total Bill : 		 Rs. 704.25
+ ------------------------------------

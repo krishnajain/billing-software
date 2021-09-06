@@ -1,0 +1,13 @@
+	 Welcome to Grocery Shop 
+
+ Bill Number : 1818
+ Customer Name : krishna
+ Phone Number : 1234
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Tea			3		540
+ ------------------------------------
+ Grocery Tax		Rs. 54.0
+ Total Bill : 		 Rs. 594.0
+ ------------------------------------
